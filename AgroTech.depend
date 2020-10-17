@@ -1,0 +1,514 @@
+# depslib dependency file v1.0
+1559833092 source:c:\users\administrador\desktop\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"Ubicacion.h"
+	"Campo.h"
+	"Funciones.h"
+
+1559833138 c:\users\administrador\desktop\agrotech\ubicacion.h
+
+1559832938 c:\users\administrador\desktop\agrotech\campo.h
+
+1559833192 c:\users\administrador\desktop\agrotech\funciones.h
+
+1560394305 source:f:\users\fede\desktop\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1560383988 f:\users\fede\desktop\agrotech\agrotech\ubicacion.h
+
+1560392048 f:\users\fede\desktop\agrotech\agrotech\campo.h
+
+1560393298 f:\users\fede\desktop\agrotech\agrotech\funciones.h
+
+1560383861 f:\users\fede\desktop\agrotech\agrotech\lote.h
+
+1560194782 f:\users\fede\desktop\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1560392048 f:\users\fede\desktop\agrotech\agrotech\cultivo.h
+
+1560382002 f:\users\fede\desktop\agrotech\agrotech\siembra.h
+
+1560393124 f:\users\fede\desktop\agrotech\agrotech\cosecha.h
+
+1560394557 f:\users\fede\desktop\agrotech\agrotech\reportes.h
+
+1560394306 source:f:\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1560194784 f:\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1560383990 f:\agrotech\ubicacion.h
+
+1561589726 f:\agrotech\campo.h
+
+1561589800 f:\agrotech\lote.h
+
+1560392050 f:\agrotech\cultivo.h
+
+1561422984 f:\agrotech\siembra.h
+
+1561568440 f:\agrotech\cosecha.h
+
+1561589824 f:\agrotech\funciones.h
+
+1561327228 f:\agrotech\reportes.h
+
+1560394306 source:h:\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1560194784 h:\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1560383990 h:\agrotech\ubicacion.h
+
+1561586456 h:\agrotech\campo.h
+
+1561422626 h:\agrotech\lote.h
+
+1560392050 h:\agrotech\cultivo.h
+
+1561422984 h:\agrotech\siembra.h
+
+1561568440 h:\agrotech\cosecha.h
+
+1561586188 h:\agrotech\funciones.h
+
+1561327228 h:\agrotech\reportes.h
+
+1562850026 source:e:\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	"rlutil.h"
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1562978420 e:\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1562849892 e:\agrotech\agrotech\ubicacion.h
+
+1562979428 e:\agrotech\agrotech\campo.h
+
+1562979428 e:\agrotech\agrotech\lote.h
+
+1562979428 e:\agrotech\agrotech\cultivo.h
+
+1562979428 e:\agrotech\agrotech\siembra.h
+
+1562979442 e:\agrotech\agrotech\cosecha.h
+
+1562979428 e:\agrotech\agrotech\funciones.h
+	"Encabezados.h"
+	"strlen2.h"
+	"BajaLogicas.h"
+	"Consultas.h"
+	"Listados.h"
+	"Modificar.h"
+
+1563301454 e:\agrotech\agrotech\reportes.h
+
+1562814778 source:h:\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	"rlutil.h"
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1562793424 h:\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1562816300 h:\agrotech\agrotech\ubicacion.h
+
+1562816646 h:\agrotech\agrotech\campo.h
+
+1562816648 h:\agrotech\agrotech\lote.h
+
+1562815468 h:\agrotech\agrotech\cultivo.h
+
+1562813168 h:\agrotech\agrotech\siembra.h
+
+1562813168 h:\agrotech\agrotech\cosecha.h
+
+1562817474 h:\agrotech\agrotech\funciones.h
+	"Encabezados.h"
+	"strlen2.h"
+	"BajaLogicas.h"
+	"Consultas.h"
+	"Listados.h"
+
+1562816122 h:\agrotech\agrotech\reportes.h
+
+1562802402 source:f:\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	"rlutil.h"
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1562793424 f:\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1562789730 f:\agrotech\agrotech\ubicacion.h
+
+1562795544 f:\agrotech\agrotech\campo.h
+
+1562791594 f:\agrotech\agrotech\lote.h
+
+1562791492 f:\agrotech\agrotech\cultivo.h
+
+1562794584 f:\agrotech\agrotech\siembra.h
+
+1562794584 f:\agrotech\agrotech\cosecha.h
+
+1562797372 f:\agrotech\agrotech\funciones.h
+
+1562715928 f:\agrotech\agrotech\reportes.h
+
+1464936568 h:\agrotech\agrotech\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1464936568 f:\agrotech\agrotech\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1562817476 h:\agrotech\agrotech\encabezados.h
+
+1562817474 h:\agrotech\agrotech\strlen2.h
+
+1562817474 h:\agrotech\agrotech\bajalogicas.h
+
+1562817474 h:\agrotech\agrotech\consultas.h
+
+1562817476 h:\agrotech\agrotech\listados.h
+
+1563406760 source:d:\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	"rlutil.h"
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1464936568 d:\agrotech\agrotech\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1562978420 d:\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1563414558 d:\agrotech\agrotech\ubicacion.h
+
+1563453640 d:\agrotech\agrotech\campo.h
+
+1563452936 d:\agrotech\agrotech\lote.h
+
+1562979428 d:\agrotech\agrotech\cultivo.h
+
+1563453350 d:\agrotech\agrotech\siembra.h
+
+1563453350 d:\agrotech\agrotech\cosecha.h
+
+1562979428 d:\agrotech\agrotech\funciones.h
+	"Encabezados.h"
+	"strlen2.h"
+	"BajaLogicas.h"
+	"Consultas.h"
+	"Listados.h"
+	"Modificar.h"
+
+1562844868 d:\agrotech\agrotech\encabezados.h
+
+1562817474 d:\agrotech\agrotech\strlen2.h
+
+1562817474 d:\agrotech\agrotech\bajalogicas.h
+
+1562847204 d:\agrotech\agrotech\consultas.h
+
+1562817476 d:\agrotech\agrotech\listados.h
+
+1563415278 d:\agrotech\agrotech\reportes.h
+
+1563406760 source:g:\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	"rlutil.h"
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1464936568 g:\agrotech\agrotech\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1562978420 g:\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1563414558 g:\agrotech\agrotech\ubicacion.h
+
+1563414558 g:\agrotech\agrotech\campo.h
+
+1563405728 g:\agrotech\agrotech\lote.h
+
+1562979428 g:\agrotech\agrotech\cultivo.h
+
+1562979428 g:\agrotech\agrotech\siembra.h
+
+1563406750 g:\agrotech\agrotech\cosecha.h
+
+1562979428 g:\agrotech\agrotech\funciones.h
+	"Encabezados.h"
+	"strlen2.h"
+	"BajaLogicas.h"
+	"Consultas.h"
+	"Listados.h"
+	"Modificar.h"
+
+1562844868 g:\agrotech\agrotech\encabezados.h
+
+1562817474 g:\agrotech\agrotech\strlen2.h
+
+1562817474 g:\agrotech\agrotech\bajalogicas.h
+
+1562847204 g:\agrotech\agrotech\consultas.h
+
+1562817476 g:\agrotech\agrotech\listados.h
+
+1563415278 g:\agrotech\agrotech\reportes.h
+
+1563408592 g:\agrotech\agrotech\modificar.h
+
+1464936568 e:\agrotech\agrotech\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1562844868 e:\agrotech\agrotech\encabezados.h
+
+1562817474 e:\agrotech\agrotech\strlen2.h
+
+1562817474 e:\agrotech\agrotech\bajalogicas.h
+
+1562847204 e:\agrotech\agrotech\consultas.h
+
+1562817476 e:\agrotech\agrotech\listados.h
+
+1563401050 e:\agrotech\agrotech\modificar.h
+
+1563406758 source:c:\users\aragon\desktop\agrotech\agrotech\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	"rlutil.h"
+	"fecha.h"
+	"Ubicacion.h"
+	"Campo.h"
+	"Lote.h"
+	"Cultivo.h"
+	"Siembra.h"
+	"Cosecha.h"
+	"Funciones.h"
+	"Reportes.h"
+
+1464936568 c:\users\aragon\desktop\agrotech\agrotech\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1562978420 c:\users\aragon\desktop\agrotech\agrotech\fecha.h
+	<ctime>
+	<cstring>
+
+1563406748 c:\users\aragon\desktop\agrotech\agrotech\ubicacion.h
+
+1563406748 c:\users\aragon\desktop\agrotech\agrotech\campo.h
+
+1563405726 c:\users\aragon\desktop\agrotech\agrotech\lote.h
+
+1562979428 c:\users\aragon\desktop\agrotech\agrotech\cultivo.h
+
+1562979428 c:\users\aragon\desktop\agrotech\agrotech\siembra.h
+
+1563406748 c:\users\aragon\desktop\agrotech\agrotech\cosecha.h
+
+1562979428 c:\users\aragon\desktop\agrotech\agrotech\funciones.h
+	"Encabezados.h"
+	"strlen2.h"
+	"BajaLogicas.h"
+	"Consultas.h"
+	"Listados.h"
+	"Modificar.h"
+
+1562844868 c:\users\aragon\desktop\agrotech\agrotech\encabezados.h
+
+1562817474 c:\users\aragon\desktop\agrotech\agrotech\strlen2.h
+
+1562817474 c:\users\aragon\desktop\agrotech\agrotech\bajalogicas.h
+
+1562847204 c:\users\aragon\desktop\agrotech\agrotech\consultas.h
+
+1562817476 c:\users\aragon\desktop\agrotech\agrotech\listados.h
+
+1563406951 c:\users\aragon\desktop\agrotech\agrotech\modificar.h
+
+1563301454 c:\users\aragon\desktop\agrotech\agrotech\reportes.h
+
+1563408592 d:\agrotech\agrotech\modificar.h
+
